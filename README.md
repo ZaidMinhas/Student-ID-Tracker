@@ -4,7 +4,7 @@ We built a Student ID Tracking System that maintains and operates on a list of N
 
 CleverSIDC includes a number of useful methods:
 * SetSIDCThreshold(int n) that defines how many IDs until data structure should be changed from Hashtable to BST
-* generate() which generates a random 8 digit code
+* generate() which generates a random 8 digit ID
 * allKeys(CleverSIDC) returns a sorted sequence of the IDs
 * add(CleverSIDC,key,value) Add a student with his `key` (ID) and `value` (info)
 * remove(CleverSIDC,key), Remove a student with a given `key`
