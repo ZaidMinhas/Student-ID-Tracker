@@ -1,0 +1,12 @@
+Normal run
+
+Time taken to add 4000 student: 8.76087E7 ns
+Time taken to generate a key : 31900.0 ns
+Time taken to get all keys : 826800.0 ns
+Time taken to get add a key: 4600.0 ns
+Time taken to get remove a key: 36800.0 ns
+Time taken to get a value: 52700.0 ns
+Time taken to get a value: 32400.0 ns
+Time taken to get next Key: 50200.0 ns
+Time taken to get prev Key: 42600.0 ns
+Time taken to get range of keys from 100 to 20000000: 861400.0 ns

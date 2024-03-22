@@ -1,0 +1,11 @@
+Getting range of all keys
+
+Time taken to add 120 student: 2.26601E7 ns
+Time taken to generate a key : 57500.0 ns
+Time taken to get all keys : 47600.0 ns
+Time taken to get add a key: 22600.0 ns
+Time taken to get remove a key: 34500.0 ns
+Time taken to get a value: 37400.0 ns
+Time taken to get next Key: 39600.0 ns
+Time taken to get prev Key: 34800.0 ns
+Time taken to get range of keys from 0 to 99999999: 48100.0 ns

@@ -1,0 +1,6 @@
+Time taken to add 26277 student: 2.280822E8 ns
+Time taken to get all keys : 1722100.0 ns
+Time taken to get range of keys from 0 to 99999999: 2609000.0 ns
+Time taken to get all keys : 768900.0 ns
+Time taken to get add a key: 23800.0 ns
+Time taken to get range of keys from 0 to 99999999: 566800.0 ns

@@ -1,0 +1,12 @@
+Adding dupluicates and Removing keys that dont exist
+getting value, next key and prev key of keys that dont exist
+
+Time taken to add 45096 student: 2.86056E8 ns
+Time taken to generate a key : 81500.0 ns
+Time taken to get all keys : 5686200.0 ns
+Time taken to get add a key: 43800.0 ns
+Time taken to get remove a key: 79000.0 ns
+Time taken to get a value: 46200.0 ns
+Time taken to get next Key: 49300.0 ns
+Time taken to get prev Key: 40900.0 ns
+Time taken to get range of keys from 0 to 1: 6078100.0 ns
