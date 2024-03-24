@@ -13,3 +13,4 @@ CleverSIDC includes a number of useful methods:
 * prevKey(CleverSIDC,key), get the key before `key`
 * rangeKey(key1, key2), get a sorted sequence of IDs from `key1` to `key2`
 
+ 
